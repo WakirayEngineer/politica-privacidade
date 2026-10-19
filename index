@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Política de Privacidade - 2048</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 800px;
+            margin: 40px auto;
+            padding: 0 20px;
+        }
+        h1, h2 {
+            color: #2c3e50;
+        }
+        h1 {
+            border-bottom: 2px solid #eee;
+            padding-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Política de Privacidade</h1>
+    <p><strong>Última atualização:</strong> Outubro de 2026</p>
+
+    <p>A sua privacidade é de extrema importância para nós. Esta Política de Privacidade descreve como o aplicativo <strong>2048 Infinity</strong> (desenvolvido por <em>NexusCore</em>) lida com as suas informações.</p>
+
+    <h2>1. Recolha de Dados</h2>
+    <p>O nosso aplicativo <strong>não recolhe, armazena, partilha ou processa</strong> nenhum tipo de dado pessoal ou sensível dos utilizadores (como nome, localização, contactos ou dados bancários).</p>
+
+    <h2>2. Dados de Jogo</h2>
+    <p>Quaisquer pontuações, preferências ou dados gerados durante a utilização do jogo são armazenados exclusivamente de forma local no seu próprio dispositivo. Não temos acesso a essas informações.</p>
+
+    <h2>3. Anúncios e Serviços de Terceiros</h2>
+    <p>O aplicativo não integra redes de publicidade de terceiros nem ferramentas de rastreio de dados para fins comerciais.</p>
+
+    <h2>4. Alterações a Esta Política</h2>
+    <p>Podemos atualizar esta Política de Privacidade ocasionalmente. Qualquer alteração será refletida nesta página com a respetiva data de atualização.</p>
+
+    <h2>5. Contacto</h2>
+    <p>Se tiver alguma dúvida ou sugestão sobre esta Política de Privacidade, entre em contacto connosco através do e-mail de suporte associado à nossa conta de programador na Google Play Console.</p>
+
+</body>
+</html>
